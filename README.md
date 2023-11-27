@@ -2,7 +2,7 @@
 
 This repository contains part of the code and pre-trained models for our paper "Awareness of Time: Video-Language Models Embedding with Temporal Reasoning", which has been submitted to LREC-COLING2024. The complete code will be released after the conference announces the acceptance results.
 
-## Overview
+## Contents
 
 - Overview
 - Datasets
