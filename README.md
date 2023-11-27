@@ -24,7 +24,8 @@ This repository contains part of the code and pre-trained models for our paper "
 
 we pre-train our model on a webly-sourced video dataset WebVid-2M with 2.5M video-text pairs and a image-text dataset Google Conceptual Captions (CC3M) with 3M image-text pairs. Unlike previous methods, we do not pre-train our model on the large-scale video-text datasets like HowTo100M with 136M video-text pairs and YT-Temporal-180M due to the heavy computation.
 
-![image](https://github.com/kaamava/Research-and-Application-of-Temporal-Reasoning/assets/106901273/30523123-6574-40d2-af93-5ac0bd567bd7)
+![tempo-data-v1](https://github.com/kaamava/Research-and-Application-of-Temporal-Reasoning/assets/106901273/1bff9281-7ea3-4896-aadf-72dbfa49d396)
+
 
 We evaluate our pre-trained model on several video-language benchmarks including video-text retrieval, video question answering, and video captioning tasks. Specifically, video question answering (VideoQA) can be categorized as Multiple-Choice (MC) and Open-Ended (OE) settings. The evaluation datasets are briefly summarized in below. 
 
