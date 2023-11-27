@@ -31,13 +31,13 @@ we pre-train our model on a webly-sourced video dataset WebVid-2M with 2.5M vide
 
 We evaluate our pre-trained model on several video-language benchmarks including video-text retrieval, video question answering, and video captioning tasks. Specifically, video question answering (VideoQA) can be categorized as Multiple-Choice (MC) and Open-Ended (OE) settings. The evaluation datasets are briefly summarized in below. 
 
-• Video-Text Retrieval: MSRVTT, DiDeMo, LSMDC, ActivityNet Caption, and SSv2-Template;
+• Video-Text Retrieval: MSRVTT, ActivityNet Caption and SSv2-Template;
 
-• VideoQA (MC): TGIF-Action, TGIF-Transition, MSRVTT-MC, LSMDC-MC, and NExT-QA;
+• VideoQA (MC): TGIF-Action, TGIF-Transition, MSRVTT-MC and NExT-QA;
 
-• VideoQA (OE): TGIF-Frame, MSRVTT-QA,MSVD-QA, LSMDC-FiB and ActivityNet-QA;
+• VideoQA (OE): MSRVTT-QA,MSVD-QA and ActivityNet-QA;
 
-• Video Captioning: MSRVTT and MSVD.
+• Video Captioning: MSRVTT.
 ## Baseline
 
 
